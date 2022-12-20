@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CopySprint1Final/CopySprint1Final.iml" filepath="$PROJECT_DIR$/../CopySprint1Final/CopySprint1Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sprint1/Sprint1/Sprint1.iml" filepath="$PROJECT_DIR$/../Sprint1/Sprint1/Sprint1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sprint1Final/Sprint1Final.iml" filepath="$PROJECT_DIR$/../Sprint1Final/Sprint1Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Study2/Study2.iml" filepath="$PROJECT_DIR$/Study2/Study2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sprint1Final/Test/TestTest11/TestTest11.iml" filepath="$PROJECT_DIR$/../Sprint1Final/Test/TestTest11/TestTest11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sprint1Final/Test/TestTest321/TestTest321.iml" filepath="$PROJECT_DIR$/../Sprint1Final/Test/TestTest321/TestTest321.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1sprint1.iml" filepath="$PROJECT_DIR$/ex1sprint1.iml" />
+    </modules>
+  </component>
+</project>
